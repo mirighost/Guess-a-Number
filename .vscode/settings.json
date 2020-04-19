@@ -1,9 +1,9 @@
 {
-    "git.ignoreLimitWarning": true,
-    "prettier.tabWidth": 4,
-    "prettier.trailingComma": "all",
-    "prettier.useTabs": true,
-    "prettier.jsxBracketSameLine": true,
-    "prettier.singleQuote": true,
-    "prettier.jsxSingleQuote": true
+	"git.ignoreLimitWarning": true,
+	"prettier.tabWidth": 4,
+	"prettier.trailingComma": "all",
+	"prettier.useTabs": true,
+	"prettier.jsxBracketSameLine": true,
+	"prettier.singleQuote": true,
+	"prettier.jsxSingleQuote": true
 }

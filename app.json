@@ -1,23 +1,29 @@
 {
-	"expo": {
-		"name": "Guess a Number game",
-		"slug": "guess-a-number",
-		"platforms": ["ios", "android", "web"],
-		"version": "1.0.0",
-		"orientation": "default",
-		"icon": "./assets/icon.png",
-		"splash": {
-			"image": "./assets/splash.png",
-			"resizeMode": "contain",
-			"backgroundColor": "#ffffff"
-		},
-		"updates": {
-			"fallbackToCacheTimeout": 0
-		},
-		"assetBundlePatterns": ["**/*"],
-		"ios": {
-			"supportsTablet": true
-		},
-		"description": "It is the \"Guess a Number\" game for Android and iOS"
-	}
+  "expo": {
+    "name": "Guess a Number game",
+    "slug": "guess-a-number",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "default",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": "It is the \"Guess a Number\" game for Android and iOS"
+  }
 }

@@ -24,9 +24,9 @@ const GameOverScreen = (props) => {
 						// source={require('../assets/success.png')}
 						source={{
 							uri:
-								'https://i.pinimg.com/originals/14/fa/ee/14faee721d75b3bb8d3d09912b774f0f.png',
+								// 'https://i.pinimg.com/originals/14/fa/ee/14faee721d75b3bb8d3d09912b774f0f.png',
+								'https://images8.alphacoders.com/962/thumb-1920-962048.jpg',
 						}}
-						// https://images8.alphacoders.com/962/thumb-1920-962048.jpg
 						style={styles.image}
 						resizeMode='cover'
 					/>
@@ -54,7 +54,7 @@ const styles = StyleSheet.create({
 		flex: 1,
 		justifyContent: 'center',
 		alignItems: 'center',
-		paddingVertical: 10
+		paddingVertical: 10,
 	},
 	imageContainer: {
 		width: Dimensions.get('window').width * 0.7,

@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { StyleSheet, View, SafeAreaView } from 'react-native';
 import * as Font from 'expo-font';
-import { AppLoading, Logs } from 'expo';
+import { AppLoading } from 'expo';
 
 import Header from './components/Header';
 import StartGameScreen from './screens/StartGameScreen';

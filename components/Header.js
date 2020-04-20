@@ -26,6 +26,7 @@ const styles = StyleSheet.create({
 		paddingTop: 36,
 		alignItems: 'center',
 		justifyContent: 'center',
+		marginTop: -30
 	},
 	headerIOS: {
 		backgroundColor: 'white',
